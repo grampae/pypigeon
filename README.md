@@ -14,3 +14,4 @@ options:
   -l LPAC      Serve local package
 
 ```
+Currently only handles pip modules that include a setup file, no whl support yet.
