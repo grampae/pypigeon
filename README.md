@@ -1,6 +1,5 @@
 ## Rogue pypi server
-Need to put server.crt and server.key in same directory as pypigeon.py
-or, just use a valid cert
+You need to setup the host this is on with a valid cert and point to it in the script.
 ```
 usage: pypigeon.py [-h] -p PORT [-ua] [-f FPAYLOAD] [-c CPAYLOAD] [-l LPAC]
 
